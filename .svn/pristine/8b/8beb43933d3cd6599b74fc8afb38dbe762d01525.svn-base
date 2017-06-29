@@ -1,0 +1,6 @@
+
+function go_page(pageNo) {
+	$("#pageno").val(pageNo);
+	$("#form_tx").submit();
+
+}
